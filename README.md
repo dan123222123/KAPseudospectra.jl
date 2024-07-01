@@ -3,8 +3,8 @@ Accelerated pseudospectral calculations using KernelAbstractions.jl
 
 # Installation
 1) Clone this repo
-2a) Inside of the Julia REPL (preferably within a top-level environment e.g. @v1.10, etc.) run `]dev path/to/KAPseudospectra.jl`
-2b) You may need to run `]instantiate` to resolve package dependencies of `KAPseudospectra.jl`
+2) Inside of the Julia REPL (preferably within a top-level environment e.g. @v1.10, etc.) run `]dev path/to/KAPseudospectra.jl`
+3) You may need to run `]instantiate` to resolve package dependencies of `KAPseudospectra.jl`
 
 # Examples
 Check out `examples/` for three scripts that showcase usage of this package.
