@@ -1,0 +1,10 @@
+[deps]
+AMDGPU = "21141c5a-9bdb-4563-92ae-f87d6854732e"
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+GridArrays = "356ae075-8bc9-5ef9-a342-46c9ba26438c"
+KernelAbstractions = "63c18a36-062a-441e-b654-da1e3ab1ce7c"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+MAT = "23992714-dd62-5051-b70f-ba57cb901cac"
+PerformanceTestTools = "dc46b164-d16f-48ec-a853-60448fc869fe"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+TestItems = "1c621080-faea-4a02-84b6-bbd5e436b8fe"
