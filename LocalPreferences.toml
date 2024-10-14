@@ -1,0 +1,3 @@
+[AMDGPU]
+eager_gc = false
+nonblocking_synchronization = true
